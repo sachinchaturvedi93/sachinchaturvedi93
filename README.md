@@ -13,8 +13,9 @@
 
 ### Connect with me:
 
+[<img align="left" alt="sachin93 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="sachin93 | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="sachin93 | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="sachin93 | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt="sachin93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sachin93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sachinchaturvedi93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -51,3 +52,4 @@
 [kaggle]: https://kaggle.com/sachin93
 [instagram]: https://instagram.com/sachinchaturvedi93
 [linkedin]: https://linkedin.com/in/sachin93
+[gmail]: mailto:sachin93@gmail.com
