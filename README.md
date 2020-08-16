@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 - I’m currently working on building my knowledge in the field of Data Science!
   - Learning Computer Vision, Natural Language Processing
-  - Learning how to deploy Machine Learing/Deep Learning Models
+  - Learning how to deploy Machine Learning/Deep Learning Models
 - I’m currently learning : 
   - Deep Learning for Coders by [fast.ai](course.fast.ai)
   - Tensorflow in Practice [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
