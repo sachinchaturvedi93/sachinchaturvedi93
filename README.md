@@ -1,3 +1,4 @@
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/sachinchaturvedi93)
 ### Hi there, I'm Sachin <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -12,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sachin93)
 
 &nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/sachinchaturvedi93)
+
 ## I'm a Machine Learning/Deep Learning Enthusiast!
 
 - I’m currently working on building my knowledge in the field of Data Science!
