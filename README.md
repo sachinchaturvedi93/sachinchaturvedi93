@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
 - 2020/2021 Goals: Contribute more to Open Source projects
-- Fun fact: I have a degree in Civil Engineering!
+- Fun fact: I have a degree in Civil Engineering! :construction_worker:
 
 <br />
 
@@ -54,7 +54,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
