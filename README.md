@@ -26,6 +26,7 @@ You can use the website to generate badges: https://shields.io/
 - Fun fact: I have a degree in Civil Engineering!
 
 <br />
+
 ### Languages and Tools:
 
 <!-- Your github readme stats
