@@ -1,6 +1,5 @@
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/sachinchaturvedi93)
 ### Hi there, I'm Sachin <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/sachinchaturvedi93)
 ## I'm a Machine Learning/Deep Learning Enthusiast!
 
 - I’m currently working on building my knowledge in the field of Data Science!
