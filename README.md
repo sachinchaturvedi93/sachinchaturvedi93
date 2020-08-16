@@ -11,9 +11,7 @@ You can use the website to generate badges: https://shields.io/
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/flipcase93)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/sachin93)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sachin93)
-
 &nbsp;
-
 ## I'm a Machine Learning/Deep Learning Enthusiast!
 
 - I’m currently working on building my knowledge in the field of Data Science!
