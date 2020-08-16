@@ -5,7 +5,7 @@
 - I’m currently working on building my knowledge in the field of Data Science!
   - Learning Computer Vision, Natural Language Processing
   - Learning how to deploy Machine Learing/Deep Learning Models
-- I’m currently learning everything 🤣 
+- I’m currently learning : 
   - Deep Learning for Coders by [fast.ai](course.fast.ai)
   - Tensorflow in Practice [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
