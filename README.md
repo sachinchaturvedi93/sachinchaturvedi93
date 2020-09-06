@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
   - Reading papers on ML/DL/AI
 - I’m currently learning : 
   - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
-  - Tensorflow in Practice [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+  - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
 - 2020/2021 Goals: Contribute more to Open Source projects
