@@ -28,6 +28,7 @@ You can use the website to generate badges: https://shields.io/
 
 <br />
 
+### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="300px">
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
 
 
