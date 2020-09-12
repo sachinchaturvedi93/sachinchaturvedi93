@@ -25,12 +25,10 @@ You can use the website to generate badges: https://shields.io/
 - I’m looking to collaborate with other content creators
 - 2020/2021 Goals: Contribute more to Open Source projects
 - Fun fact: I have a degree in Civil Engineering! :construction_worker:
-
 <br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="300px">
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
-
 
 ### Languages and Tools:
 
