@@ -28,6 +28,9 @@ You can use the website to generate badges: https://shields.io/
 
 <br />
 
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
+
+
 ### Languages and Tools:
 
 <!-- Your github readme stats
