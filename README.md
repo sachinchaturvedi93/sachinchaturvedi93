@@ -19,9 +19,10 @@ You can use the website to generate badges: https://shields.io/
   - Learning Computer Vision, Natural Language Processing
   - Learning how to deploy Machine Learning/Deep Learning Models
   - Reading papers on ML/DL/AI
-- I’m currently learning : 
+- I have finished the following courses/certficates : 
   - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
-  - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+  - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/DD3MA95L66KV)
+- I'm currently reading : 
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
 - 2020/2021 Goals: Contribute more to Open Source projects
