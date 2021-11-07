@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 - I'm currently reading : 
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
-- 2020/2021 Goals: Contribute more to Open Source projects
+- 2021/2022 Goals: Contribute more to Open Source projects
 - Fun fact: I have a degree in Civil Engineering! :construction_worker:
 <br />
 
